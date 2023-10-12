@@ -1,6 +1,6 @@
 # Udaaan
 
-*https://shivamsansare.github.io/Udaaan/*
+
 
 Airline Reservation System, beta program
 It uses a custom mysql database to reserve aeroplane tickets
